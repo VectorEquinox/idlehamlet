@@ -1,2 +1,2 @@
 ## Idle Hamlet
-[Play](https://vectorequinox.github.io/idlehamlet/)
+[Click here to play](https://vectorequinox.github.io/idlehamlet/)
