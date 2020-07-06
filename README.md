@@ -1,0 +1,2 @@
+# idlehamlet
+Idle Hamlet repository
